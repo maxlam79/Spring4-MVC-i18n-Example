@@ -29,15 +29,15 @@ Deploy the .war file found in the /target directory to a Servlet Container or fu
 
 ## URL
 
-    localhost:8080/Spring4-MVC-i18n-Example/hello/?lang=en
+    http://localhost:8080/Spring4-MVC-i18n-Example/hello/?lang=en
 
 OR
 
-    localhost:8080/Spring4-MVC-i18n-Example/hello/?lang=en
+    http://localhost:8080/Spring4-MVC-i18n-Example/hello/?lang=en
 
 OR
 
-    localhost:8080/Spring4-MVC-i18n-Example/hello/?lang=zh_CN
+    http://localhost:8080/Spring4-MVC-i18n-Example/hello/?lang=zh_CN
 
 
 ## License
