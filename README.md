@@ -22,24 +22,23 @@ Spring Framework 4.2.x
 
 ## How to Run?
 Apache Maven Required
-...
-mvn clean install
-...
+
+    mvn clean install
 
 Deploy the .war file found in the /target directory to a Servlet Container or full App Server.
 
 ## URL
-...
-localhost:8080/Spring4-MVC-i18n-Example/hello/?lang=en
-...
+
+    localhost:8080/Spring4-MVC-i18n-Example/hello/?lang=en
+
 OR
-...
-localhost:8080/Spring4-MVC-i18n-Example/hello/?lang=en
-...
+
+    localhost:8080/Spring4-MVC-i18n-Example/hello/?lang=en
+
 OR
-...
-localhost:8080/Spring4-MVC-i18n-Example/hello/?lang=zh_CN
-...
+
+    localhost:8080/Spring4-MVC-i18n-Example/hello/?lang=zh_CN
+
 
 ## License
 
