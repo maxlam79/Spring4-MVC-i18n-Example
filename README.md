@@ -1,0 +1,1 @@
+# Spring4-MVC-i18n-Example
